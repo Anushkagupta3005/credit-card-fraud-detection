@@ -117,7 +117,4 @@ Python · scikit-learn · LightGBM · imbalanced-learn · SHAP · pandas · NumP
 
 ---
 
-> **Resume bullet:** Built a cost-sensitive credit-card fraud detector on 285K transactions
-> (0.17% fraud): leak-safe CV harness, PR-AUC-driven model selection, and a
-> dollar-cost-optimized decision threshold that cut expected fraud cost by ~20% vs a default
-> cutoff, validated once on a locked test set.
+
